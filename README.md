@@ -10,8 +10,6 @@
 - 🌱 Currently learning Web Development
 - 🎯 Goal: Become a Software Engineer & build my own business (Aamiin)
 
----
-
 ## 🛠 Tech Stack
 
 <p>
