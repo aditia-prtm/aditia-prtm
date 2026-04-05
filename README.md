@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Hi, I'm Adit
 
-<!--
-**aditia-prtm/aditia-prtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Student;Competitive+Programmer;Future+Software+Engineer&center=true&width=500&height=45">
+</p>---
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Informatics Student (Universitas Sriwijaya)
+- 🧠 OSN Provincial Winner (Informatics)
+- 💻 Passionate about problem solving & coding
+- 🌱 Currently learning Web Development
+- 🎯 Goal: Become a Software Engineer & build my own business
+
+---
+
+🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight">
+</p>---
+
+🧩 Featured Projects
+
+- 🚀 Coming soon... (still building my best projects)
+- 💡 Focus: problem solving, web apps, and useful tools
+
+---
+
+📫 Connect with Me
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat">
+</p>
