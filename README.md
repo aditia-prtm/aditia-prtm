@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -29,13 +27,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditia-prtm&theme=tokyonight">
 </p>
 
----
-
 ## 🧩 Featured Projects
 
-- 🚀 Coming soon... (still building my Kalkulator MBG projects omke gas)
-
----
+- 🚀 Coming soon... (still building my Kalkulator MBG project omke gas)
 
 ## 📫 Connect with Me
 
