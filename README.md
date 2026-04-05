@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aditia
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight">
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Universitas+Sriwijaya;Failed+Competitive+Programmer&center=true&width=500&height=55">
 </p>
 
