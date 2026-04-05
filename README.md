@@ -8,7 +8,7 @@
 
 - 🎓 Informatics Engineering Student (Universitas Sriwijaya)
 - 🌱 Currently learning Web Development
-- 🎯 Goal: Become a Software Engineer & build my own business (Aamiin)
+- 🎯 Goal: Become a Software Engineer & build my own business (Aamiin🤲)
 
 ## 🛠 Tech Stack
 
