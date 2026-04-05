@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditia-ptm&color=blue&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=aditia-prtm&color=blue&style=flat">
 </p>
