@@ -14,6 +14,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
@@ -34,11 +36,9 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditia-prtm&color=blue&style=flat">
