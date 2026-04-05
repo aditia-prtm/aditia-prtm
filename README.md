@@ -7,10 +7,9 @@
 🚀 About Me
 
 - 🎓 Informatics Student (Universitas Sriwijaya)
-- 🧠 OSN Provincial Winner (Informatics)
 - 💻 Passionate about problem solving & coding
 - 🌱 Currently learning Web Development
-- 🎯 Goal: Become a Software Engineer & build my own business
+- 🎯 Goal: Become a Software Engineer & build my own business (Aamiin)
 
 ---
 
@@ -26,15 +25,14 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight">
 </p>---
 
 🧩 Featured Projects
 
-- 🚀 Coming soon... (still building my best projects)
-- 💡 Focus: problem solving, web apps, and useful tools
+- 🚀 Coming soon... (still building my Kalkulator MBG projects omke gas)
 
 ---
 
@@ -46,5 +44,5 @@
 </p>---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=aditia-prtm&color=blue&style=flat">
 </p>
