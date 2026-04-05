@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Universitas+Sriwijaya;Failed+Competitive+Programmer&center=true&width=500&height=55">
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🎓 Informatics Engineering Student (Universitas Sriwijaya)
