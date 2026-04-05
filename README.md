@@ -1,13 +1,12 @@
 👋 Hi, I'm Adit
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Student;Competitive+Programmer;Future+Software+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Universitas+Sriwijaya;Failed+Competitive+Programmer&center=true&width=500&height=45">
 </p>---
 
 🚀 About Me
 
-- 🎓 Informatics Student (Universitas Sriwijaya)
-- 💻 Passionate about problem solving & coding
+- 🎓 Informatics Engineering Student (Universitas Sriwijaya)
 - 🌱 Currently learning Web Development
 - 🎯 Goal: Become a Software Engineer & build my own business (Aamiin)
 
@@ -27,7 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditia-prtm&theme=tokyonight">
 </p>---
 
 🧩 Featured Projects
