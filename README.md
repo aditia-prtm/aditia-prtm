@@ -21,7 +21,9 @@
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-</p>---
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -29,7 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditia-prtm&theme=tokyonight">
-</p>---
+</p>
+
+---
 
 ## 🧩 Featured Projects
 
