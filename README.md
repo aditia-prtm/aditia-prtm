@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 Informatics Engineering Student (Universitas Sriwijaya)
-- 🌱 Currently learning Web Development
+- 🌱 Currently learning Front-End Web Development
 - 🎯 Goal: Become a Software Engineer & build my own business (Aamiin🤲)
 
 ## 🛠 Tech Stack
