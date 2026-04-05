@@ -39,7 +39,3 @@
   <a href="https://www.instagram.com/adtxprtm_"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditia-prtm&color=blue&style=flat">
-</p>
