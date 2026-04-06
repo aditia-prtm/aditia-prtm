@@ -31,7 +31,7 @@
 
 ## 🧩 Featured Projects
 
-- 🚀 Coming soon... (still building my Kalkulator MBG project omke gas)
+- 🚀 Coming soon... (still building my MBG Calculator project omke gas omke gas)
 
 ## 📫 Connect with Me
 
