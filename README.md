@@ -29,10 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditia-prtm&theme=tokyonight">
 </p>
 
-## 🧩 Featured Projects
-
-- 🚀 Coming soon... (still building my MBG Calculator project omke gas omke gas)
-
 ## 📫 Connect with Me
 
 <p>
