@@ -1,4 +1,4 @@
-# 👋 Hi There, I'm M. Aditia Putra Pratama
+# 👋 Hi There, I'm Aditia
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Universitas+Sriwijaya;Failed+Competitive+Programmer:)&center=true&width=500&height=55">
