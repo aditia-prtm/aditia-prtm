@@ -36,11 +36,7 @@ I am an **Informatics Engineering Student** at Universitas Sriwijaya. My journey
 ## 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight&count_private=true" alt="Aditia's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditia-prtm&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditia-prtm&show_icons=true&theme=tokyonight" alt="Aditia's Stats" />
 </p>
 
 <p align="center">
