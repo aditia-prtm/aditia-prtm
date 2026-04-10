@@ -53,4 +53,4 @@ I am an **Informatics Engineering Student** at Universitas Sriwijaya. My journey
   <a href="mailto:mhdaditiapratama268@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="right"><i>"Keep pushing commits, keep solving problems."</i></p>
+<p align="right"><i>"42."</i></p>
