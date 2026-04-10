@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript%20ES6+-yellow?style=for-the-badge&logo=javascript">
 </p>
 
 ## 📊 GitHub Stats
