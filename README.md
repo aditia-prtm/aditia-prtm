@@ -40,7 +40,7 @@ I am an **Informatics Engineering Student** at Universitas Sriwijaya. My journey
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditia-prtm&layout=compact&theme=tokyonight&hide=php,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditia-prtm&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
