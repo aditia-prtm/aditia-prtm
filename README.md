@@ -11,6 +11,7 @@ I am an **Informatics Engineering Student** at Universitas Sriwijaya. My journey
 
 - 🎓 **Education:** 2nd Semester Informatics Engineering at UNSRI.
 - 💻 **Experience:** Active in Competitive Programming since 2023.
+- 🏛️ Organizations: **HMIF Universitas Sriwijaya** *Information Technology Development (PTI) Division*
 - 🌱 **Learning:** Deep diving into **Front-End Web Development** (HTML, CSS, JS).
 - 🎯 **Goal:** Bridging the gap between complex algorithms and user-friendly interfaces.
 
