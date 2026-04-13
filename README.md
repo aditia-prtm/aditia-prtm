@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am an **Informatics Engineering Student** at Universitas Sriwijaya. My journey started with a focus on logic and competitive programming, and I am now expanding my craft into modern web technologies.
+I am an **Informatics Engineering Student** at Universitas Sriwijaya. I am now expanding my craft into modern web technologies.
 
 - 🎓 **Education:** 2nd Semester Informatics Engineering at UNSRI.
 - 💻 **Experience:** Active in Competitive Programming since 2023.
