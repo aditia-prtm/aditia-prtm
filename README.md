@@ -1,7 +1,7 @@
 # 👋 Hi There, I'm Adit.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Sriwijaya+University;Failed+Competitive+Programmer:)&center=true&width=500&height=55">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Sriwijaya+University;Failed+Competitive+Programmer :)&center=true&width=500&height=55">
 </p>
 
 <p align="center">
