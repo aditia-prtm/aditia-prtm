@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=300&color=F7C31B&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Sriwijaya+University;Failed+Competitive+Programmer+%3A)" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=300&color=F7C31B&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Sriwijaya+University+%3A)" alt="Typing animation" />
 </p>
